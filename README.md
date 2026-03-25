@@ -1,5 +1,5 @@
 # TaskBank_Csharp_app
-個人制作学年発表会【TaskBank】
+アプリ名【TaskBank】 :  個人制作学年発表会にてクラス代表に選出させていただきました。
 
 ※ファイル名「HomeGamen.cs」がmainFormです。2025年10月に制作しました。
 
